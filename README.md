@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">" Where's⠀e͟v͟e͟r͟y͟σηє &nbsp; going ? &nbsp; <b>Bingo</b>&nbsp;? " </h3>
 
-<!--
-**shervyi/shervyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="YOUR-IMAGE-HERE" width="450" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<i>" That's &nbsp; <b>american</b> &nbsp; law . . . "</i></p>
+
+---
+
+<div align="center">
+
+𝗖ASPER⠀⠀ ₒᵤ⠀⠀ 𝗦HERRY⠀╋━⠀⠀he⠀⠀𓈒⠀⠀him
+
+𖹭⠀⠀⠀𓈒⠀𓈒⠀𓈒⠀⠀n͟s͟⠀ 𝚕𝚎𝚘𝚗⠀ 𝚔𝚎𝚗𝚗𝚎𝚍𝚢⠀ 𝘺𝘶𝘮𝘦
+
+𝓣here's ⠀a⠀ 4͟5͟% ⠀chance⠀ I'm⠀ 𝐀𝐅𝐊
+
+<p align="center">ʷᵉᵇˢⁱᵗᵉ ᵐᵃᵈᵉ ᶠᵒʳ ᵖᶜ
+
+</div>
