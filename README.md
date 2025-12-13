@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://i.postimg.cc/XvbY3jWY/Untitled164-20251116130622.png" width="450" />
-</p>
-
-<p align="center">
   <img src="https://i.postimg.cc/Jz1RdT5b/Untitled166-20251116130840.png" width="450" />
 </p>
 
@@ -13,7 +9,7 @@
 </p>
 
 
-<p align="center">𝗖ASPER⠀⠀ ₒᵤ⠀⠀ 𝗦HERRY⠀╋━⠀⠀he⠀⠀𓈒⠀⠀him
+<p align="center">ADELINE⠀⠀ ₒᵤ⠀⠀ 𝗦HERRY⠀╋━⠀⠀ she⠀⠀𓈒⠀⠀her
 
 <p align="center">𖹭⠀⠀⠀𓈒⠀𓈒⠀𓈒⠀⠀n͟s͟⠀ 𝚕𝚎𝚘𝚗⠀ 𝚔𝚎𝚗𝚗𝚎𝚍𝚢⠀ 𝘺𝘶𝘮𝘦
 
